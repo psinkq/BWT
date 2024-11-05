@@ -5,10 +5,10 @@ function checkInequalities() {
     const result = document.getElementById("result");
   
     if (a < b && b < c) {
-      result.textContent = `The inequality A < B < C is satisfied`;
+      result.textContent = `Выполняется неравенство A < B < C`;
     } else if (a < b && b > c) {
-      result.textContent = `The inequality A < B > C is satisfied`;
+      result.textContent = `Выполняется неравенство A < B > C`;
     } else {
-      result.textContent = `Inequalities are not met`;
+      result.textContent = `Неравенства не выполняются`;
     }
   }
