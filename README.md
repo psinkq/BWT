@@ -1,1 +1,1 @@
-https://psinkq.github.io/BWT/ph-2.html
+https://psinkq.github.io/BWT/ph-1.html
